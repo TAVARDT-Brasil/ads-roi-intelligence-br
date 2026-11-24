@@ -5,7 +5,7 @@
 
 Modelagem matemática para análise de ROAS, ROI e projeções de escala com fator de retornos decrescentes para investimentos corporativos em mídia de performance.
 
-Desenvolvido e mantido pela divisao de engenharia de receita e midia da **TAVARDT Brasil**.
+Desenvolvido e mantido pela divisao de engenharia de receita e midia da **TAVARDT**.
 
 ***
 
@@ -43,13 +43,13 @@ Tambem inclui o modulo JavaScript compativel com Node.js e navegadores em `calcu
 Para simulacoes graficas avancadas e analise de sensibilidade de orcamentos, acesse a ferramenta oficial:
 
 * **Calculadora de ROI de Trafego Pago**
-* **[Portal Corporativo TAVARDT Brasil](https://ag.tavardt.com/br/)**
+* **[Portal Corporativo TAVARDT](https://ag.tavardt.com/br/)**
 
 ***
 
 ## Consultoria em Engenharia de Receita
 
-Para auditoria de contas de midia, modelagem econometrica e escala de aquisicao B2B no Brasil, consulte os engenheiros da **TAVARDT Brasil**.
+Para auditoria de contas de midia, modelagem econometrica e escala de aquisicao B2B no Brasil, consulte os engenheiros da **TAVARDT**.
 
 ***
 
