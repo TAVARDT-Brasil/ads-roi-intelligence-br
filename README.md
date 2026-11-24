@@ -2,6 +2,7 @@
 
 [![Calculadora ROI](https://img.shields.io/badge/TAVARDT-Calculadora%20ROI-5b3cf5.svg)](https://tools.tavardt.com/br/calculadora-roi-trafego-pago/)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 Modelagem matemática para análise de ROAS, ROI e projeções de escala com fator de retornos decrescentes para investimentos corporativos em mídia de performance.
 
@@ -50,6 +51,20 @@ Para simulacoes graficas avancadas e analise de sensibilidade de orcamentos, ace
 ## Consultoria em Engenharia de Receita
 
 Para auditoria de contas de midia, modelagem econometrica e escala de aquisicao B2B no Brasil, consulte os engenheiros da **TAVARDT**.
+
+***
+
+## Governança e Soberania
+
+* **Unidade Soberana**: **TAVARDT Brasil** (`TAVARDT-Brasil`)
+* **Normas Centrais**: [00-core Governança](https://github.com/TAVARDT-Brasil/00-core)
+* **Central de Diagnósticos**: **Central de Ferramentas TAVARDT**
+* **Segurança Corporativa**: [TAVARDT Cibersegurança](https://ag.tavardt.com/br/ciberseguranca/)
+
+***
+
+### Licença
+Distribuído sob a Licença MIT. Consulte o arquivo [LICENSE](LICENSE) para obter detalhes completos.
 
 ***
 
