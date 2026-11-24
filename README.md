@@ -1,4 +1,4 @@
-# Inteligência e Modelagem de ROI em Mídia Paga | TAVARDT Brasil
+# Inteligência e Modelagem de ROI em Mídia Paga
 
 [![Calculadora ROI](https://img.shields.io/badge/TAVARDT-Calculadora%20ROI-5b3cf5.svg)](https://tools.tavardt.com/br/calculadora-roi-trafego-pago/)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
@@ -50,3 +50,7 @@ Para simulacoes graficas avancadas e analise de sensibilidade de orcamentos, ace
 ## Consultoria em Engenharia de Receita
 
 Para auditoria de contas de midia, modelagem econometrica e escala de aquisicao B2B no Brasil, consulte os engenheiros da **TAVARDT Brasil**.
+
+***
+
+© 2026 TAVARDT. Todos os direitos reservados.
