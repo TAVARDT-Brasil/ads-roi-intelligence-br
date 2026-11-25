@@ -1,8 +1,8 @@
 # Inteligência e Modelagem de ROI em Mídia Paga
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Calculadora ROI](https://img.shields.io/badge/TAVARDT-Calculadora%20ROI-5b3cf5.svg)](https://tools.tavardt.com/br/calculadora-roi-trafego-pago/)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 Modelagem matemática para análise de ROAS, ROI e projeções de escala com fator de retornos decrescentes para investimentos corporativos em mídia de performance.
 
