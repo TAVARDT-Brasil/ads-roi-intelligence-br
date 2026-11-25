@@ -1,12 +1,10 @@
 # Inteligência e Modelagem de ROI em Mídia Paga
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Calculadora ROI](https://img.shields.io/badge/TAVARDT-Calculadora%20ROI-5b3cf5.svg)](https://tools.tavardt.com/br/calculadora-roi-trafego-pago/)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 Modelagem matemática para análise de ROAS, ROI e projeções de escala com fator de retornos decrescentes para investimentos corporativos em mídia de performance.
-
-Desenvolvido e mantido pela divisao de engenharia de receita e midia da **TAVARDT**.
 
 ***
 
@@ -39,15 +37,6 @@ Tambem inclui o modulo JavaScript compativel com Node.js e navegadores em `calcu
 
 ***
 
-## Calculadora Interativa na Web
-
-Para simulacoes graficas avancadas e analise de sensibilidade de orcamentos, acesse a ferramenta oficial:
-
-* **Calculadora de ROI de Trafego Pago**
-* **[Portal Corporativo TAVARDT](https://ag.tavardt.com/br/)**
-
-***
-
 ## Consultoria em Engenharia de Receita
 
 Para auditoria de contas de midia, modelagem econometrica e escala de aquisicao B2B no Brasil, consulte os engenheiros da **TAVARDT**.
@@ -63,7 +52,7 @@ Para auditoria de contas de midia, modelagem econometrica e escala de aquisicao 
 ***
 
 ### Licença
-Distribuído sob a Licença MIT. Consulte o arquivo [LICENSE](LICENSE) para obter detalhes completos.
+Distribuído sob a Licença MIT.
 
 ***
 
